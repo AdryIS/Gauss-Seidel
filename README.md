@@ -1,1 +1,3 @@
 # Gauss-Seidel
+
+Es un método iterativo utilizado para resolver sistemas de ecuaciones lineales. Es un método iterativo, lo que significa que se parte de una aproximación inicial y se repite el proceso hasta llegar a una solución con un margen de error tan pequeño como se quiera. Este método convergirá siempre a una solución cuando la magnitud del coeficiente de una incógnita diferente en cada ecuación del conjunto, sea suficientemente dominante con respecto a las magnitudes de los otros coeficientes de esa ecuación. En el método de Gauss-Seidel se propone ir sustituyendo los nuevos valores de la aproximación siguiente conforme se vayan obteniendo sin esperar a tener un vector completo. De esta forma se acelera la convergencia.
